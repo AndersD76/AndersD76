@@ -1,16 +1,15 @@
-## Hi there 👋
+### Daniel Anders
 
-<!--
-**AndersD76/AndersD76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building web apps, dashboards, and API integrations.
 
-Here are some ideas to get you started:
+**Stack:** Next.js, React, TypeScript, FastAPI, Python, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build:**
+- SaaS dashboards and admin panels
+- API integrations and backend services
+- IoT monitoring systems with real-time data
+- Business management tools and automation
+
+**Based in:** Brazil (UTC-3) | Available for freelance projects
+
+[LinkedIn](https://www.linkedin.com/in/danielandersbrrs/) | [Website](https://andersdev.com.br)
